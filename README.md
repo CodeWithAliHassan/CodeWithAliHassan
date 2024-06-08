@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeWithAliHassan
 - 👀 I’m interested in Web Development/Mobile Application Development 
 - 🌱 I’m currently learning Mobile Application Development
-- 📫 How to reach me 03045044959/official.alihassan00@gmail.com
+- 📫 How to reach me official.alihassan00@gmail.com
 - 😄 Pronouns: He/Him/His
 
 <!---
